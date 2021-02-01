@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.7755822e8a7cd5f47de76bf91e84bf7a.js"
+  "precache-manifest.c5a1d831ce706bf4249a39f68ca540b1.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "yidian"});
